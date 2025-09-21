@@ -1,5 +1,5 @@
 {
-  "name": "artifind",
+  "name": "Artifind-AI-powered-Artisan-markerplace",
   "version": "1.0.0",
   "description": "AI-powered web application for local artisans to showcase and sell their crafts",
   "main": "index.js",
@@ -25,3 +25,4 @@
   }
 
 }
+
